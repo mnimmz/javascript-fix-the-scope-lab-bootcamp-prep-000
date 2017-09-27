@@ -11,7 +11,6 @@ function yourAnimal() {
   return animal
 }
 
-animal;
 
 function add2(n) {
   // const n;
